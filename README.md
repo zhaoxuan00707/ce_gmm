@@ -1,4 +1,4 @@
-# ce_gmm
+# Counterfactual Explanation through GMM
 
 
 Code for the paper "Counterfactual Explanation via Search in Gaussian Mixture Distributed Latent Space" by Xuan Zhao, Klaus Broelemann and Gjergji Kasneci
